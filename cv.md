@@ -4,10 +4,12 @@
 
 ## Contacts
 [Telegtam](https://t.me/k_o_der)
+
 [Discord](https://discordapp.com/users/1014907805397954611/)
 
 ## About me
 I like learning and discover something new.
+
 I'd like to be more organised to reach my goals more efficiently.
 
 
@@ -33,10 +35,12 @@ function arrayDiff(a, b) {
 
 ## Education
 Donbass Mining and Metallurgical University - Electrical engineer
+
 Cisco CCNA - sertificate
 
 ## Work experience
 1 year as Delphi developer
+
 5 year as technical support engineer
 
 
