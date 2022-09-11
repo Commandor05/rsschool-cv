@@ -1,4 +1,4 @@
-![avatar](/avatar.png)
+![avatar](/assets/images/avatar.png)
 # Oleh Kaliuzhnyi
 *Front-end Developer*
 
